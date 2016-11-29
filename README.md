@@ -6,5 +6,6 @@
   2.  本地存储localStorage<br/>
   3.  使用ES6的Promise改善异步代码的嵌套<br/>
   4.  css3中的圆角，伪类等特性<br/>
-  
+###### 效果图
+  ![](http://www.baidu.com/img/bdlogo.gif)   
   
